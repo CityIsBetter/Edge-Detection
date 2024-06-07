@@ -4,8 +4,8 @@ Edge Detection using convolution encoder and decoder
 
 # Screenshots
 
-![screenshot of this game](https://imgur.com/CMU69mM)
-![screenshot of this game](https://imgur.com/ibxP6Hd)
+![screenshot of this game](https://i.imgur.com/CMU69mM.png)
+![screenshot of this game](https://i.imgur.com/ibxP6Hd.png)
 
 # Installation
 - clone this repo and run the main.ipynb
